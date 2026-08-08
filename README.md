@@ -46,13 +46,6 @@ Me apasiona conceptualizar y construir aplicaciones desde cero, transformando re
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Anzola&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas de Carlos" />
-</p>
-
----
 
 ### 📫 ¿Cómo contactarme?
 *   **LinkedIn:** [Carlos E. Anzola Monsanto](https://www.linkedin.com/in/carlos-anzola-58704b2aa/)
